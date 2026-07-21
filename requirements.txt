@@ -2,6 +2,14 @@ numpy
 
 matplotlib
 
-ipython
+torch
 
-pickle5
+torchvision
+
+pandas
+
+tqdm
+
+jupyter
+
+pyyaml
