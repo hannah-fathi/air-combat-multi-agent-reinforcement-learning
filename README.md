@@ -608,9 +608,6 @@ The results demonstrate that learned value representations provide stronger tact
 ## Hannah Fathi
 
 
-M.Sc. Student in Artificial Intelligence and Robotics  
-
-
 Spring 2025
 
 
