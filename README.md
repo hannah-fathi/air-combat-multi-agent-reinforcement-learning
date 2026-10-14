@@ -606,10 +606,9 @@ The results demonstrate that learned value representations provide stronger tact
 **Spring 2025**
 
 
-# Author
+## Author
 
-**Hannah Fathi**: Medical AI · Computer Vision · Explainable AI · Reproducible research
-
+**Hannah Fathi** : Computer Vision · Medical AI · Representation Learning · Explainable AI · Foundation Models
 
 ---
 
