@@ -602,24 +602,13 @@ The results demonstrate that learned value representations provide stronger tact
 
 ---
 
+
+**Spring 2025**
+
+
 # Author
 
-
-## Hannah Fathi
-
-
-Spring 2025
-
-
-## Research Interests
-
-- Reinforcement Learning
-- Multi-Agent Systems
-- Autonomous Agents
-- Computer Vision
-- Medical AI
-- Remote Sensing
-- Explainable AI
+**Hannah Fathi**: Medical AI · Computer Vision · Explainable AI · Reproducible research
 
 
 ---
